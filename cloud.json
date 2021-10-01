@@ -27,7 +27,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -45,7 +45,7 @@
                  "value":"#start"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
                  "value":"#hell2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -135,7 +135,7 @@
                  "value":"playvirtualoffice-devops-bulle-2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -153,7 +153,7 @@
                  "value":"playvirtualoffice-devops-bulle-1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -171,7 +171,7 @@
                  "value":"playvirtualoffice-devops-bulle-4"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -189,7 +189,7 @@
                  "value":"playvirtualoffice-tableau1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -207,7 +207,7 @@
                  "value":"playvirtualoffice-devops-MEP"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -230,7 +230,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -248,7 +248,7 @@
                  "value":"playvirtualoffice-devops-daily-meeting-room"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -260,7 +260,7 @@
          "name":"collides",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -272,7 +272,7 @@
          "name":"underground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -284,7 +284,7 @@
          "name":"ground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -296,7 +296,7 @@
          "name":"wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -308,7 +308,7 @@
          "name":"desk",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -320,7 +320,7 @@
          "name":"computer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -332,7 +332,7 @@
          "name":"deco",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
@@ -344,7 +344,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -355,7 +355,7 @@
          "name":"roof",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":80,
          "x":0,
          "y":0
