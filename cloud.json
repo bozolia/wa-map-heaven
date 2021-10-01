@@ -45,7 +45,7 @@
                  "value":"#start"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":80,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
                  "value":"#hell1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":80,
          "x":0,
          "y":0
@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#hell2"
+                 "value":"#hell1"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -401,12 +401,22 @@
          "spacing":0,
          "tilecount":1440,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":263,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"string",
+                         "value":"hell1"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
          "columns":8,
          "firstgid":4609,
-         "image":"coulds.png",
+         "image":"clouds.png",
          "imageheight":64,
          "imagewidth":256,
          "margin":0,
