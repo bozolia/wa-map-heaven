@@ -115,6 +115,11 @@
                  "name":"start",
                  "type":"string",
                  "value":"hell2"
+                }, 
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
