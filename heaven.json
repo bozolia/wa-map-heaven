@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bozolia.github.io\/wa-map-heaven\/hell.json"
+                 "value":"hell.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bozolia.github.io\/wa-map-heaven\/hell.json"
+                 "value":"hell.json"
                 }],
          "type":"tilelayer",
          "visible":true,

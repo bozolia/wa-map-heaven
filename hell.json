@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bozolia.github.io\/wa-map-heaven\/heaven.json"
+                 "value":"heaven.json"
                 }],
          "type":"tilelayer",
          "visible":false,
