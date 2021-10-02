@@ -401,16 +401,6 @@
          "spacing":0,
          "tilecount":1440,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":263,
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"string",
-                         "value":"hell1"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
